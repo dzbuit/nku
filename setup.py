@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nku",
-    version="1.0.1",
+    version="1.0.2",
     packages=["nku"],
     author="blueradiance",
     author_email="none@example.com",
